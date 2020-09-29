@@ -1,15 +1,15 @@
 # Pedro Vitorino
 
-## Hey there 👋
+### Hello there 👋
 
-A little about me:
+#### A little about me:
 
 - 💼 Working as a frontend web developer @ [Social Bank](https://www.socialbank.com.br)
 - 🌱 Currently studying React and Docker
 - 💻 Check my [personal webpage](https://www.pedrovitorino.com.br)
 - ✏️ I also do some blogging on [dev.to](https://dev.to/pedrovsp)
 
-I’m looking to collaborate on:
+#### I’m looking to collaborate on:
 
 - 💜 Open source projects for a better web
 - 🔭 Data analysis projects to the social benefit
