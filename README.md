@@ -1,9 +1,20 @@
-### Hi there 👋
+# Pedro Vitorino
 
-- 💼 Front end web developer @ Social Bank
-- 🌱 Currentrly studying React and TDD
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/pedrovsp)
+## Hey there 👋
 
-<!--- - 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ... 
-- 😄 Fun fact: ...-->
+A little about me:
+
+- 💼 Working as a frontend web developer @ [Social Bank](https://www.socialbank.com.br)
+- 🌱 Currently studying React and Docker
+- 💻 Check my [personal webpage](https://www.pedrovitorino.com.br)
+- ✏️ I also do some blogging on [dev.to blog](https://dev.to/pedrovsp)
+
+I’m looking to collaborate:
+
+- 💜 Open source projects for a better web
+- 🔭 Data analysis projects to the social benefit
+- 💬 Ask me about: Angular, Typescript, Frontend, RxJS
+
+#### Reach me on my social networks:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrovsp)](https://github.com/pedrovsp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrovsp/)](https://www.linkedin.com/in/pedrovsp/)
