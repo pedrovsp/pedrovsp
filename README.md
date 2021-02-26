@@ -4,7 +4,7 @@
 
 #### A little about me:
 
-- 💼 Working as a frontend web developer @ [Social Bank](https://www.socialbank.com.br)
+- 💼 Working as a frontend web developer
 - 🌱 Currently studying React and Docker
 - 💻 Check my [personal webpage](https://www.pedrovitorino.com.br)
 - ✏️ I also do some blogging on [dev.to](https://dev.to/pedrovsp)
