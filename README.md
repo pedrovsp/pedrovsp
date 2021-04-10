@@ -4,8 +4,8 @@
 
 #### A little about me:
 
-- 💼 Working as a frontend web developer
-- 🌱 Currently studying React and Docker
+- 💼 Working as a frontend web developer @ McKinsey
+- 🌱 Currently studying Flutter
 - 💻 Check my [personal webpage](https://www.pedrovitorino.com.br)
 - ✏️ I also do some blogging on [dev.to](https://dev.to/pedrovsp)
 
@@ -13,7 +13,7 @@
 
 - 💜 Open source projects for a better web
 - 🔭 Data analysis projects to the social benefit
-- 💬 Ask me about: Angular, Typescript, Frontend, RxJS
+- 💬 Ask me about: Angular, Typescript, Frontend, RxJS, React
 
 #### Reach me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrovsp)](https://github.com/pedrovsp)
